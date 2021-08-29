@@ -10,7 +10,7 @@ h3
 
 .btn-success:hover
 {
-    background-color: cyan;
+    background-color: gold;
 }
 
 canvas
@@ -22,6 +22,6 @@ canvas
 
 @keyframes example
 {
-    from{box-shadow:1px 1px 38px gold;}
-    to{box-shadow:1px 1px 38px firebrick;}
+    from{box-shadow:1px 1px 38px purple;}
+    to{box-shadow:1px 1px 38px cyan;}
 }
